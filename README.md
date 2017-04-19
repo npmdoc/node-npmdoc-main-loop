@@ -1,9 +1,14 @@
-# api documentation for  [main-loop (v3.4.0)](https://github.com/Raynos/main-loop)  [![npm package](https://img.shields.io/npm/v/npmdoc-main-loop.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-main-loop) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-main-loop.svg)](https://travis-ci.org/npmdoc/node-npmdoc-main-loop)
+# npmdoc-main-loop
+
+#### api documentation for  [main-loop (v3.4.0)](https://github.com/Raynos/main-loop)  [![npm package](https://img.shields.io/npm/v/npmdoc-main-loop.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-main-loop) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-main-loop.svg)](https://travis-ci.org/npmdoc/node-npmdoc-main-loop)
+
 #### A rendering loop for diffable UIs
 
-[![NPM](https://nodei.co/npm/main-loop.png?downloads=true)](https://www.npmjs.com/package/main-loop)
+[![NPM](https://nodei.co/npm/main-loop.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/main-loop)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-main-loop/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-main-loop_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-main-loop/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-main-loop/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-main-loop/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-main-loop/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-main-loop/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-main-loop/build/screenCapture.npmPackageListing.svg)
 
@@ -17,12 +22,10 @@
 
 {
     "author": {
-        "name": "Raynos",
-        "email": "raynos2@gmail.com"
+        "name": "Raynos"
     },
     "bugs": {
-        "url": "https://github.com/Raynos/main-loop/issues",
-        "email": "raynos2@gmail.com"
+        "url": "https://github.com/Raynos/main-loop/issues"
     },
     "contributors": [
         {
@@ -57,13 +60,11 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "raynos",
-            "email": "raynos2@gmail.com"
+            "name": "raynos"
         }
     ],
     "name": "main-loop",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/Raynos/main-loop.git"
@@ -97,16 +98,6 @@
     "version": "3.4.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module main-loop](#apidoc.module.main-loop)
-
-
-
-# <a name="apidoc.module.main-loop"></a>[module main-loop](#apidoc.module.main-loop)
 
 
 
